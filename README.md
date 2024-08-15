@@ -20,5 +20,5 @@ Possuo habilidades em C, C#, Java, python, TypeScript, JavaScript, HTML, CSS, Re
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 ## Onde me encontrar
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-vidal-ab6695251/)](https://www.linkedin.com/in/luan-vidal-ab6695251/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luan.vidal07@outlook.com)](mailto:luan.vidal07@outlook.com)
+[![Linkedin](https://img.shields.io/badge/-LuanVidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-vidal-ab6695251/)](https://www.linkedin.com/in/luan-vidal-ab6695251/)
+[![Gmail Badge](https://img.shields.io/badge/-luan.vidal07@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luan.vidal07@outlook.com)](mailto:luan.vidal07@outlook.com)
