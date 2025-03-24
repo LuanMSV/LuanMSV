@@ -1,6 +1,7 @@
 ## Olá, meu nome é Luan, sou um Desenvolvedor Fullstack
 
-Possuo habilidades em C, C#, Java, python, TypeScript, JavaScript, HTML, CSS, React e git.Meu primeiro estágio foi na prefeitura de salvador, desenvolvi habilidades essenciais para o trabalho em equipe e o crescimento pessoal. Foi nessa oportunidade que tive meu primeiro contato com React, o que me permitiu expandir significativamente meus conhecimentos em desenvolvimento web. Também possuo conhecimento em análise de dados.
+Tenho experiência em desenvolvimento web, utilizando react e nodejs. Estou aprendendo mais sobre next, spring boot e C#, a fim de aumentar meu conhecimento em diversar linguagens. Também ja fiz projetos em python 
+para a parte de Machine Learning e análise de dados. Tenho um bom conhecimendo em banco de dados SQL.
 
 ---
 
