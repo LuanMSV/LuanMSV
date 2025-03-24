@@ -14,7 +14,6 @@ para a parte de Machine Learning e análise de dados. Tenho um bom conhecimendo 
 - Java(SpringBoot)
 - Python
 - SQL
-- Firebase
 
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-LuanVidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-vidal-ab6695251/)](https://www.linkedin.com/in/luan-vidal-ab6695251/)
