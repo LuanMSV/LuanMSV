@@ -14,6 +14,8 @@ para a parte de Machine Learning e análise de dados. Tenho um bom conhecimendo 
 - Java(SpringBoot)
 - Python
 - SQL
+- 
+![LuanMSV GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanMSV&show_icons=true&theme=radical)
 
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-LuanVidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-vidal-ab6695251/)](https://www.linkedin.com/in/luan-vidal-ab6695251/)
