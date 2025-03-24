@@ -7,7 +7,7 @@ para a parte de Machine Learning e análise de dados. Tenho um bom conhecimendo 
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,node,next,c#,java,python,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,next,java,python,mysql)](https://skillicons.dev)
 
 - React
 - Node
