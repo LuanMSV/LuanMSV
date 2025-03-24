@@ -7,6 +7,8 @@ para a parte de Machine Learning e análise de dados. Tenho um bom conhecimendo 
 
 ## 🚀 Minhas Skills
 
+[![My Skills](https://skillicons.dev/icons?i=react,node,next,c#,java,python,sql)](https://skillicons.dev)
+
 - React
 - Node
 - Next
@@ -14,9 +16,9 @@ para a parte de Machine Learning e análise de dados. Tenho um bom conhecimendo 
 - Java(SpringBoot)
 - Python
 - SQL
-- 
-![LuanMSV GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanMSV&show_icons=true&theme=radical)
 
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-LuanVidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-vidal-ab6695251/)](https://www.linkedin.com/in/luan-vidal-ab6695251/)
 [![Gmail Badge](https://img.shields.io/badge/-luan.vidal07@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luan.vidal07@outlook.com)](mailto:luan.vidal07@outlook.com)
+
+![LuanMSV GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanMSV&show_icons=true&theme=dark) <br><br>
