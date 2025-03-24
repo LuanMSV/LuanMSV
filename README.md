@@ -1,6 +1,6 @@
 ## Olá, meu nome é Luan, sou um Desenvolvedor Fullstack
 
-Tenho experiência em desenvolvimento web, utilizando react e nodejs. Estou aprendendo mais sobre next, spring boot e C#, a fim de aumentar meu conhecimento em diversar linguagens. Também ja fiz projetos em python 
+Tenho experiência em desenvolvimento web, utilizando react e nodejs. Estou aprendendo mais sobre next, spring boot e C#, a fim de aumentar meu conhecimento em diversas linguagens. Também ja fiz projetos em python 
 para a parte de Machine Learning e análise de dados. Tenho um bom conhecimendo em banco de dados SQL e os serviços da firebase.
 
 ---
