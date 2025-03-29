@@ -1,11 +1,11 @@
-## Olá, meu nome é Luan, sou um Desenvolvedor Fullstack
+## Hello, my name is Luan, I'm a Fullstack Developer
 
-Tenho experiência em desenvolvimento web, utilizando react e nodejs. Estou aprendendo mais sobre next, spring boot e C#, a fim de aumentar meu conhecimento em diversas linguagens. Também ja fiz projetos em python 
-para a parte de Machine Learning e análise de dados. Tenho um bom conhecimendo em banco de dados SQL e os serviços da firebase.
+I have experience in web development, using react and nodejs. I am learning more about next, spring boot and C#, in order to increase my knowledge in several languages. I have also done projects in python for the Machine Learning and data analysis part. I have a good knowledge of SQL databases and Firebase services.
+
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,next,java,python,mysql)](https://skillicons.dev)
 
