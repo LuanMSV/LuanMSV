@@ -17,7 +17,7 @@ I have experience in web development, using react and nodejs. I am learning more
 - Python
 - SQL
 
-## Onde me encontrar
+## Where to find me
 [![Linkedin](https://img.shields.io/badge/-LuanVidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-vidal-ab6695251/)](https://www.linkedin.com/in/luan-vidal-ab6695251/)
 [![Gmail Badge](https://img.shields.io/badge/-luan.vidal07@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luan.vidal07@outlook.com)](mailto:luan.vidal07@outlook.com)
 
