@@ -7,11 +7,12 @@ I have experience in web development, using react and nodejs. I am learning more
 
 ## 🚀 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,next,java,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,next,java,python,mysql,angular)](https://skillicons.dev)
 
 - React
-- Node
+- Angular
 - Next
+- Node
 - C#
 - Java(SpringBoot)
 - Python
